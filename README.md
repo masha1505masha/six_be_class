@@ -1,0 +1,1 @@
+# six_be_class
